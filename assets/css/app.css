@@ -1,0 +1,14 @@
+.h{
+    position: static
+}
+.h-welcome{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center
+}
+.h-love{
+    background: #dd514c;
+    border-radius:1em;
+}
